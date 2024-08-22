@@ -15,3 +15,21 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitOpash&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+
+<br />
+<br />
+--- 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ankitOpash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankitOpash&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="ankitOpash GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitOpash"/>
+
+</details>
