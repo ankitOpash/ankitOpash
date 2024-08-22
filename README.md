@@ -33,3 +33,9 @@
 <img align="left" alt="ankitOpash GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitOpash"/>
 
 </details>
+
+
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitOpash&theme=react-light)
+<br>
