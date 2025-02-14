@@ -26,6 +26,22 @@
 
 <br />
 <br />
+
+# AI Tools Expertise
+
+## 🚀 Skills & Tools
+
+Below is a list of AI tools I have experience with:
+
+| Tool       | Description |
+|------------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50"> **OpenAI** | Advanced AI models including GPT, Codex, and DALL·E |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anthropic_logo.svg/120px-Anthropic_logo.svg.png" width="50"> **Anthropic** | AI assistant models like Claude |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Google_Gemini_Logo.svg/120px-Google_Gemini_Logo.svg.png" width="50"> **Gemini** | Google's AI for reasoning, coding, and multimodal tasks |
+| <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/langchain-light.svg" width="100"> **Langchain** | Framework for building AI-powered applications |
+| <img src="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/_static/vllm_logo.png" width="80"> **vLLM** | High-throughput and memory-efficient LLM serving |
+| <img src="https://ollama.ai/public/ollama-mark.svg" width="50"> **Ollama** | Running LLMs locally with ease |
+
 --- 
 <details>
   <summary>:zap: GitHub Stats</summary>
